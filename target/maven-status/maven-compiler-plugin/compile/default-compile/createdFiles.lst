@@ -1,0 +1,3 @@
+org\encryptsl\dailyminer\config\PlayerCache.class
+org\encryptsl\dailyminer\listener\BlockBreakEventClass.class
+org\encryptsl\dailyminer\DailyMiner.class

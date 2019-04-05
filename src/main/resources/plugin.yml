@@ -1,0 +1,8 @@
+name: DailyMiner
+version: ${project.version}
+main: org.encryptsl.dailyminer.DailyMiner
+api-version: 1.13
+prefix: DailyMiner
+authors: [EncryptSL]
+description: Plugin for Vanilla or Survival Server Reduce Mining in Worlds
+website: http://encryptsl.cekuj.net/index.php?page=default

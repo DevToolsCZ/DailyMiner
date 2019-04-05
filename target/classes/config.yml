@@ -1,0 +1,20 @@
+DailyMiner:
+  prefix: '&f[&2DAILY_MINER&f] &7'
+  blocked_mining: 'You are now blocked for mining [block] [time]'
+  blocks:
+    GOLD_ORE:
+      max_to_break: 128
+    IRON_ORE:
+      max_to_break: 128
+    COAL_ORE:
+      max_to_break: 128
+    LAPIS_ORE:
+      max_to_break: 128
+    DIAMOND_ORE:
+      max_to_break: 128
+    REDSTONE_ORE:
+      max_to_break: 128
+    EMERALD_ORE:
+      max_to_break: 128
+    NETHER_QUARTZ_ORE:
+      max_to_break: 128
