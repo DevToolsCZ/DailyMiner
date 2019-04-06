@@ -1,7 +1,7 @@
 /**
  *
  * @author EncryptSL
- * @organization EternityCas
+ * @organization EternityCast
  * @web: http://encryptsl.cekuj.net
  * License
  * Copyright (c) <2019> <EternityCast>
