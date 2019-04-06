@@ -38,5 +38,6 @@ DailyMiner:
 ```
 
 Saving cache max_to_break:
-All players saved in players > plugins/DayilMiner/cache/player_cache.yml
+All players saved in players 
+> plugins/DayilMiner/cache/player_cache.yml
 Time saved in TimeStamp on 20 minutes because this is one day in minecraft !
