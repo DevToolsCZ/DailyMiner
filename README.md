@@ -37,8 +37,9 @@ DailyMiner:
       max_to_break: 128
 ```
 
-When player goal max_to_break mining is blocked for him.
+When player goal finished on max_to_break mining is blocked for him.
 And Saved in player_cache.yml
 > plugins/DayilMiner/cache/player_cache.yml
 
 Time saved in TimeStamp on 20 minutes because this is one day in minecraft !
+When 20 minutes expires player can break blocks.
