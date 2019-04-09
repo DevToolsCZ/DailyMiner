@@ -5,8 +5,7 @@ DailyMiner is open source plugin for Survival/Vanilla MineCraft servers
 Plugin can blocked mining for more active users.
 More servers have problem with breaking blocks of sands in worlds, or with Ores.
 
-For this reason there is DailyMiner For this reason there is plugin DailyMiner. You can set your custom blocks for blocking mining.
-in configuration you can set your custom blocks what be can blocked.
+For this reason there is plugin DailyMiner in configuration you can set your custom blocks what be can blocked.
 
 Configuration is easy:
 
